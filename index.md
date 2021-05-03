@@ -1,4 +1,6 @@
-# Build in progress...
+# Gerard Mu
+
+## Build in progress...
 
 Here is some text about economics! 
 
