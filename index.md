@@ -6,5 +6,3 @@
 Here is some text about economics! 
 
 ## Header?
-
-![Me](/gm.jpg)
